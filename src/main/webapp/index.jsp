@@ -2,7 +2,8 @@
 <html lang="en">
 <!-- https://codepen.io/danielkvist/pen/LYNVyPL -->
 <head>
-    <meta charset="UTF-8">
+    <!--加入下面这行代码避免出现中文乱码-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
@@ -223,6 +224,11 @@
         }
     </style>
 </head>
+<body>
+<h1>
+    test_Jenkins 20220904
+</h1>
+</body>
 
 <body>
 <div class="container right-panel-active">
